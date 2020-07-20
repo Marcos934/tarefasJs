@@ -44,6 +44,7 @@ const concluirTarefa = (evento) =>{
 }
 
 
+
 const BotaoDeleta = () =>{
     const botaoDeleta = document.createElement('button')
     botaoDeleta.classList.add('delete-button')
